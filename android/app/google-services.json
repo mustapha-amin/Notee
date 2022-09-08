@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "252932357229",
+    "project_id": "notee-e4af4",
+    "storage_bucket": "notee-e4af4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:252932357229:android:6d78b740c9e56703f29364",
+        "android_client_info": {
+          "package_name": "com.musty.notes"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "252932357229-vhbgscooqr2eo1l6hbftnmjcntb54nf3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCrFPmefRAJw0s08pQFwqYZG2iS-YTAWRg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "252932357229-vhbgscooqr2eo1l6hbftnmjcntb54nf3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
